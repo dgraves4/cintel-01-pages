@@ -1,5 +1,3 @@
-# Welcome to Derek’s Data Analytics Website 🚀
-
 Embark on a journey through the realm of data analytics with me!
 
 ## Links (Two hashes is a second level heading)
