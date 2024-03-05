@@ -1,4 +1,4 @@
-# Welcome to Derek's Data Analytics Odyssey 🚀
+# Welcome to Derek's Data Analytics Website 🚀
 
 Embark on a journey through the realm of data analytics with me!
 
