@@ -1,6 +1,6 @@
-# My Website Title 
+# Welcome to Derek's Data Analytics Odyssey 🚀
 
-My first website using Markdown and GitHub Pages.
+Embark on a journey through the realm of data analytics with me!
 
 ## Links (Two hashes is a second level heading)
 
