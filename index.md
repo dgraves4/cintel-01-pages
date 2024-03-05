@@ -1,10 +1,10 @@
-# Welcome to Derek's Data Analytics Website 🚀
+# Welcome to Derek’s Data Analytics Website 🚀
 
 Embark on a journey through the realm of data analytics with me!
 
 ## Links (Two hashes is a second level heading)
 
-Here's a link to my GitHub profile: [Derek's GitHub Profile](https://github.com/dgraves4)
+Here’s a link to my GitHub profile: [Derek’s GitHub Profile](https://github.com/dgraves4)
 
 ## Images
 
