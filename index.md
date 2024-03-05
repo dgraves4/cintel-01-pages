@@ -4,7 +4,7 @@ My first website using Markdown and GitHub Pages.
 
 ## Links (Two hashes is a second level heading)
 
-Here's a link to my GitHub profile: [GitHub Profile:](https://github.com/dgraves4)
+Here's a link to my GitHub profile: [Derek's GitHub Profile](https://github.com/dgraves4)
 
 ## Images
 
